@@ -1,0 +1,13 @@
+{
+  "name": "blockchainiq-langchain",
+  "version": "1.0.0",
+  "description": "LangChain tool for the Blockchain IQ pay-per-call crypto data API (x402, USDC on Base)",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.3.72",
+    "viem": "^2.38.0",
+    "zod": "^3.25.0"
+  }
+}
